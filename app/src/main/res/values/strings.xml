@@ -1,0 +1,22 @@
+<resources>
+    <!-- App details -->
+    <string name="app_name">LuxPM</string>
+    <string name="countries">LuxPM</string>
+    <string name="news">LuxPM</string>
+    <string name="user_name">sabahat@gmail.com</string>
+    <string name="password">**********</string>
+    <string name="sign_in">로그인</string>
+    <string name="signup">계정이 없으신가요?        <u> 가입하기</u></string>
+    <string name="title">로그인</string>
+    <string name="remember">비밀번호 찾기</string>
+    <string name="email">Email</string>
+    <string name="password_title">비밀번호</string>
+    <string name="detail_title">회원가입</string>
+    <string name="edtText1">이름</string>
+    <string name="edtText2">이채민</string>
+    <string name="edtText3">+82 111 1111111</string>
+    <string name="edtText4">휴대폰 번호</string>
+    <string name="sign_in1">가입하기</string>
+    <string name="details_2">이미 계정이 있으신가요? <u> 로그인</u></string>
+    <string name="text5">Stay on the top <b>of your finance</b></string>
+</resources>

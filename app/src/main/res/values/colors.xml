@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Brand color -->
+    <color name="colorPrimary">#121258</color>
+    <color name="countryNameBackgroundLight">#C6F3F3F3</color>
+    <color name="colorPrimaryDark">#0F0F4A</color>
+    <color name="colorAccent">#FFC039</color>
+    <color name="button_color">#3B286D</color>
+    <!-- Other colors -->
+    <color name="color_transparent">#00000000</color>
+    <color name="color_white">#FFFFFF</color>
+    <color name="text_color">#0A0A0A</color>
+    <color name="gray">#B7B7B7</color>
+    <color name="gray_more">#707070</color>
+
+
+</resources>
